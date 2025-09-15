@@ -1,6 +1,6 @@
 # 🕊️ Hello! My name is Bogdan Kolesnyk <br> 🛹 I don't have much to say about my self <br> 🖐️ EXCEPT <br> 🤗 I LOVE PROGRAMMING
 
-[📽️ Rodney Mullen - Tony Hawk's Pro Skater 3 🤘](https://www.youtube.com/watch?v=V1YeMXE6Wn4)
+📽️ [Rodney Mullen - Tony Hawk's Pro Skater 3](https://www.youtube.com/watch?v=V1YeMXE6Wn4)🤘
 
 ## 🤌 Whoami
 
@@ -50,4 +50,4 @@ TOGAF-certified with expertise in Generative AI, Retrieval-Augmented Generation 
 What to create something great together?
 
 - 📍 Bern, Switzerland
-- [🤝 LinkedIn](https://linkedin.com/in/b12k){:target="_blank"}
+- 🤝 [LinkedIn](https://linkedin.com/in/b12k)
