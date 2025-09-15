@@ -51,3 +51,8 @@ What to create something great together?
 
 - 📍 Bern, Switzerland
 - 🤝 [LinkedIn](https://linkedin.com/in/b12k)
+
+<br>
+<br>
+
+[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fb12k&label=%F0%9F%98%89&countColor=%23263759&style=flat-square&labelStyle=none)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fb12k)
