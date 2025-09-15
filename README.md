@@ -45,9 +45,9 @@ TOGAF-certified with expertise in Generative AI, Retrieval-Augmented Generation 
 - [Indie Architecture — cost efficient enterprise grade web architecture](https://medium.com/p/1ab64a254635)
 - [Monorepo Semantic Releases](https://medium.com/valtech-ch/monorepo-semantic-releases-db114811efa5)
 
-## 💬 Contacts me
+## 💬 Contact me
 
-What to create something great together? 
+What to create something great together?
 
 - 📍 Bern, Switzerland
-- [🤝 LinkedIn](https://linkedin.com/in/b12k)
+- [🤝 LinkedIn](https://linkedin.com/in/b12k){:target="_blank"}
