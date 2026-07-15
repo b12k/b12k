@@ -13,6 +13,10 @@ TOGAF-certified with expertise in Generative AI, Retrieval-Augmented Generation 
 
 ## 🐶 Projects
 
+- **NPM Gitleaks Wrapper** - A thin npm wrapper that installs the correct Gitleaks binary for your platform. Detect hardcoded secrets in Git repositories from any npm workflow.
+  - <https://www.npmjs.com/package/@b12k/gitleaks>
+- **Obey** (AI agent skill) - Concise code naming conventions for AI agents generating, reviewing, and refactoring code.
+  - <https://skills.sh/b12k/obey/obey-code-naming>
 - **MVM** (Monorepo Version Manager) - a CLI utility to enable monorepo Semantic Releases in CI/CD piplines (prooven to work in large monorepos, 80+ apps)
   - <https://www.npmjs.com/package/@b12k/mvm>
 - **Branch Name Lint** - name speaks for it self
